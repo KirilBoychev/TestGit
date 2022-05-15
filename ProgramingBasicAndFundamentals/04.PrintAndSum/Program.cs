@@ -1,0 +1,28 @@
+﻿using System;
+
+namespace _04.PrintAndSum
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int startNumber = int.Parse(Console.ReadLine());
+            int endNumber = int.Parse(Console.ReadLine());
+
+            int sum = 0;
+            if (startNumber <= endNumber)
+            {
+                for (int i = startNumber; i <= endNumber; i++)
+                {
+                    Console.Write($"{i} ");
+                    sum += i;
+                    if (i == endNumber)
+                    {
+                        Console.WriteLine();
+                    }
+                }
+                Console.WriteLine($"Sum: {sum}");
+            }
+        }
+    }
+}
