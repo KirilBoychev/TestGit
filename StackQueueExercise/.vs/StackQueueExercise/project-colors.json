@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9948140c-4b0c-4a08-8721-0ec0bf5ced83": {
+      "ProjectGuid": "9948140c-4b0c-4a08-8721-0ec0bf5ced83",
+      "DisplayName": "T01.BasicStackOperations",
+      "ColorIndex": 0
+    },
+    "f68d6d0f-b8dd-409c-ace6-d8fb46432b70": {
+      "ProjectGuid": "f68d6d0f-b8dd-409c-ace6-d8fb46432b70",
+      "DisplayName": "T02.BasicQueueOperations",
+      "ColorIndex": 1
+    },
+    "2fab236f-4ca0-4733-8521-3b0f0f0477dc": {
+      "ProjectGuid": "2fab236f-4ca0-4733-8521-3b0f0f0477dc",
+      "DisplayName": "T03.MaximumandMinimumElement",
+      "ColorIndex": 2
+    },
+    "d3f8e94f-6623-42ff-a289-368532046e62": {
+      "ProjectGuid": "d3f8e94f-6623-42ff-a289-368532046e62",
+      "DisplayName": "T09.SimpleTextEditor",
+      "ColorIndex": 3
+    },
+    "0a9b5751-8a20-4967-b1ad-6e74e6b08f60": {
+      "ProjectGuid": "0a9b5751-8a20-4967-b1ad-6e74e6b08f60",
+      "DisplayName": "T04.VacationBooksList",
+      "ColorIndex": 4
+    },
+    "57cf10cd-2ad0-4deb-9510-9fa110d38437": {
+      "ProjectGuid": "57cf10cd-2ad0-4deb-9510-9fa110d38437",
+      "DisplayName": "T05.FashionBoutique",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

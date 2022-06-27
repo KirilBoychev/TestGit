@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tyDWYyp5zsdoarNBtA7X3ts0qVt4MBxr736I9lZMIIQkP2dgvyUvT94Tu6Nsu3cH33OSI9ayDoSmQIEsBJx+gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\DictionariesExercise\\T01.UnigueUsername\\T01.UnigueUsername.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

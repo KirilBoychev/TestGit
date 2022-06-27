@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hP0IPK7KIxKUJAV2HNLPNo7kPMSiDfqLntJO/sax4gelm1/l/6V7vV0GuH2xRI7Sqsu33pyCnLR4NafQld8Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\DictionariesExercise\\T05.CountSymbols\\T05.CountSymbols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

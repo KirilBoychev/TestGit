@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\T05.CountSymbols.exe
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\T05.CountSymbols.deps.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\T05.CountSymbols.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\T05.CountSymbols.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\T05.CountSymbols.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\ref\T05.CountSymbols.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\bin\Debug\net5.0\T05.CountSymbols.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\ref\T05.CountSymbols.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T05.CountSymbols\obj\Debug\net5.0\T05.CountSymbols.genruntimeconfig.cache

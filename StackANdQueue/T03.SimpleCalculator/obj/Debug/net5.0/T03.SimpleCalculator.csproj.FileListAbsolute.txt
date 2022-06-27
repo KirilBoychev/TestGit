@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\T03.SimpleCalculator.exe
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\T03.SimpleCalculator.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\T03.SimpleCalculator.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\T03.SimpleCalculator.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\T03.SimpleCalculator.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\ref\T03.SimpleCalculator.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\bin\Debug\net5.0\T03.SimpleCalculator.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\ref\T03.SimpleCalculator.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T03.SimpleCalculator\obj\Debug\net5.0\T03.SimpleCalculator.genruntimeconfig.cache

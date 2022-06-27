@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\T02.BeaverAtWork.exe
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\T02.BeaverAtWork.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\T02.BeaverAtWork.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\T02.BeaverAtWork.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\T02.BeaverAtWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\ref\T02.BeaverAtWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\bin\Debug\net5.0\T02.BeaverAtWork.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\ref\T02.BeaverAtWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation3\T02.BeaverAtWork\obj\Debug\net5.0\T02.BeaverAtWork.genruntimeconfig.cache

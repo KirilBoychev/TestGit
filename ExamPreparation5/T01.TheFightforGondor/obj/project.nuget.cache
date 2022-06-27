@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9S3+kCA3xaYoOB2QaBNf2fHTjeFOBWI9kSaIOPB0VKoQzDWKWZKV1m8vqCt1p5OWkaKoiDBsqwIslUsBp2h/PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamPreparation5\\T01.TheFightforGondor\\T01.TheFightforGondor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\T01.BirthdayCelebration.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\T01.BirthdayCelebration.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\T01.BirthdayCelebration.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\T01.BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\T01.BirthdayCelebration.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\ref\T01.BirthdayCelebration.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\bin\Debug\net5.0\T01.BirthdayCelebration.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\ref\T01.BirthdayCelebration.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced6\T01.BirthdayCelebration\obj\Debug\net5.0\T01.BirthdayCelebration.genruntimeconfig.cache

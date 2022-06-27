@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\T02.WallDestroyer.exe
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\T02.WallDestroyer.deps.json
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\T02.WallDestroyer.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\T02.WallDestroyer.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\T02.WallDestroyer.dll
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\ref\T02.WallDestroyer.dll
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\bin\Debug\net5.0\T02.WallDestroyer.pdb
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.dll
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\ref\T02.WallDestroyer.dll
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.pdb
+C:\Users\KIRIL\source\Advanced C#\PracticalExam\T02.WallDestroyer\obj\Debug\net5.0\T02.WallDestroyer.genruntimeconfig.cache

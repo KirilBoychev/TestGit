@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\T03.MaximalSum.exe
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\T03.MaximalSum.deps.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\T03.MaximalSum.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\T03.MaximalSum.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\T03.MaximalSum.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\ref\T03.MaximalSum.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\bin\Debug\net5.0\T03.MaximalSum.pdb
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\ref\T03.MaximalSum.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.pdb
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T03.MaximalSum\obj\Debug\net5.0\T03.MaximalSum.genruntimeconfig.cache

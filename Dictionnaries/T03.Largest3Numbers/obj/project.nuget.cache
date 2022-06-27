@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNJrgZJKdygsb1lt5wF6yB2RoV+obVOS+hQwAerRNlZjUsDD/0xEhWx/0nZqf7uHsr+s5T6ZXVA/eAJev7USqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\Dictionnaries\\T03.Largest3Numbers\\T03.Largest3Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

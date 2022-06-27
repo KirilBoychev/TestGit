@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDFXWP6QUksekKBef8ZxWERYWI4VGq+LYMejwoiq1zCc62xyQn3Qz+wZtT9bA6FmoE/ksdJsv4tdCYb4aFc8IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\Dictionnaries\\T02.AvarageStudentGrades\\T02.AvarageStudentGrades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

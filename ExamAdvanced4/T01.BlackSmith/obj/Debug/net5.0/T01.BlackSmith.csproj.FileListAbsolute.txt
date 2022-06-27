@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\T01.BlackSmith.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\T01.BlackSmith.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\T01.BlackSmith.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\T01.BlackSmith.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\T01.BlackSmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\ref\T01.BlackSmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\bin\Debug\net5.0\T01.BlackSmith.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\ref\T01.BlackSmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T01.BlackSmith\obj\Debug\net5.0\T01.BlackSmith.genruntimeconfig.cache

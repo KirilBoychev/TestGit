@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\T02.StackSum.exe
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\T02.StackSum.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\T02.StackSum.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\T02.StackSum.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\T02.StackSum.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\ref\T02.StackSum.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\bin\Debug\net5.0\T02.StackSum.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\ref\T02.StackSum.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T02.StackSum\obj\Debug\net5.0\T02.StackSum.genruntimeconfig.cache

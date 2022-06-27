@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\T01.ReverseAString.exe
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\T01.ReverseAString.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\T01.ReverseAString.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\T01.ReverseAString.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\T01.ReverseAString.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\ref\T01.ReverseAString.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\bin\Debug\net5.0\T01.ReverseAString.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\ref\T01.ReverseAString.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T01.ReverseAString\obj\Debug\net5.0\T01.ReverseAString.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9uine4XzotEzzO+VDpGdOOi5LXcKBhCE64/9HjG9KKXcDfjkANWCMZfojUBg1MF8d2CfgQGJfWMQn1wfDq8NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamPreparation3\\T01.BakeryShop\\T01.BakeryShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

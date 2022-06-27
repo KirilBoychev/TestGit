@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sX1J3B56gHriB7S0FdBI+cq/K0+HEubwY0J0y1YvoGp5HFs8yPzoWrL/bbZy7VoUWDfTWOzjckfzR+U4DYpolA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\MatrixExercise\\T05.SnakeMoves\\T05.SnakeMoves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

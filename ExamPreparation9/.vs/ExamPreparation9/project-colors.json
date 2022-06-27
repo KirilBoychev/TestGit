@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c33f97c-a31c-454f-89a3-6b8bb97218bb": {
+      "ProjectGuid": "4c33f97c-a31c-454f-89a3-6b8bb97218bb",
+      "DisplayName": "T01.MealPlan",
+      "ColorIndex": 0
+    },
+    "265a6ec7-96d9-4196-b7dc-378d6377db6e": {
+      "ProjectGuid": "265a6ec7-96d9-4196-b7dc-378d6377db6e",
+      "DisplayName": "T02.TruffleHunter",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

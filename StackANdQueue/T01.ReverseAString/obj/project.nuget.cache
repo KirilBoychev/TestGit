@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/Uc4T5s6jisMIw4Cq14LD17MTu9ayy4ADRf9lLgbMHwyV3vvMLGZOyGYk01/QoUhnWnJbzcuNNlL6/AqP6Rdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\StackANdQueue\\T01.ReverseAString\\T01.ReverseAString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

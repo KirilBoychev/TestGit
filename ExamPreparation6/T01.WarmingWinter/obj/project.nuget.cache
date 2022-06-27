@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVp/GZ2FfMS+18ywO6FwktFzJetuYu3aQsfCqNl4C9h1stPr4wmqJNIpXDTYowu7MI6B55mgf4jAeGNXhDCWow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamPreparation6\\T01.WarmingWinter\\T01.WarmingWinter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

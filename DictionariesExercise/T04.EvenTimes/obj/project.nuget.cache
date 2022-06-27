@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlwowWbp47c2j/DQuwmDL8NUEj8PYzMkQdVZGhQLYNFxeylkrwb/Z2ZsepcLRWJcIcDQ8jj1aDHFdlL3F1TGeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\DictionariesExercise\\T04.EvenTimes\\T04.EvenTimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

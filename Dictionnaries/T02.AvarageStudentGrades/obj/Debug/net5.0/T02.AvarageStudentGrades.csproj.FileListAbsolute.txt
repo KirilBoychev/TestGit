@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\T02.AvarageStudentGrades.exe
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\T02.AvarageStudentGrades.deps.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\T02.AvarageStudentGrades.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\T02.AvarageStudentGrades.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\T02.AvarageStudentGrades.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\ref\T02.AvarageStudentGrades.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\bin\Debug\net5.0\T02.AvarageStudentGrades.pdb
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\ref\T02.AvarageStudentGrades.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.pdb
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T02.AvarageStudentGrades\obj\Debug\net5.0\T02.AvarageStudentGrades.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFvki861MXVMbErOmhi1JGuBDTyK5XaAcpfzJMWBWWMOGB2Q9zhLGOuVL/QWrQ3DTCxRTM1RNIf4SiIpffooIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamAdvanced6\\T01.BirthdayCelebration\\T01.BirthdayCelebration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

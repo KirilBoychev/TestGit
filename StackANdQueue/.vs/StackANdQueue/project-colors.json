@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "078a227c-c345-44b9-ac89-b0244eaf028d": {
+      "ProjectGuid": "078a227c-c345-44b9-ac89-b0244eaf028d",
+      "DisplayName": "T01.ReverseAString",
+      "ColorIndex": 0
+    },
+    "4cf9dbae-4ff6-48b3-904e-64abf80df250": {
+      "ProjectGuid": "4cf9dbae-4ff6-48b3-904e-64abf80df250",
+      "DisplayName": "T02.StackSum",
+      "ColorIndex": 1
+    },
+    "750b9789-246d-4534-8999-9a99aa6fc0c2": {
+      "ProjectGuid": "750b9789-246d-4534-8999-9a99aa6fc0c2",
+      "DisplayName": "T03.SimpleCalculator",
+      "ColorIndex": 2
+    },
+    "9c86fd8d-6249-4092-8637-fd726581f0f2": {
+      "ProjectGuid": "9c86fd8d-6249-4092-8637-fd726581f0f2",
+      "DisplayName": "T04.MatchingBrackets",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

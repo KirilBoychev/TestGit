@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hp2FcbEG4CnUNnmI4vsVk/KFoHTZcfLARvI7yonA6wlci2iSzf95dBQXbvwnguo2FqwJNthIH7MAU1ui1g/CZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\DictionariesExercise\\T06.Wardrobe\\T06.Wardrobe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

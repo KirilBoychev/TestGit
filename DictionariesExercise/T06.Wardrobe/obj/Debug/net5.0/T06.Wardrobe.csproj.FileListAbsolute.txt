@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\T06.Wardrobe.exe
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\T06.Wardrobe.deps.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\T06.Wardrobe.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\T06.Wardrobe.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\T06.Wardrobe.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\ref\T06.Wardrobe.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\bin\Debug\net5.0\T06.Wardrobe.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\ref\T06.Wardrobe.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T06.Wardrobe\obj\Debug\net5.0\T06.Wardrobe.genruntimeconfig.cache

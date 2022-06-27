@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0gDZq7AWlgltXG04xoa2somb57UCR1kg7blFyeaoPvd+WK7pvgaYiTLunPzPmKyX4YP6w7fEcolWmkLFpdHIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamAdvanced5\\T01.Masterchef\\T01.Masterchef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

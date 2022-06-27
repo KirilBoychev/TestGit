@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWnERvh2XYbA5LkuQfF4YngERfx2YUpYbeiSDdQawYP2a7mnv/Jp+a0qX0PXOeq1H30pHP6K7NrfkOnV/kfDsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\MatrixExercise\\T03.MaximalSum\\T03.MaximalSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

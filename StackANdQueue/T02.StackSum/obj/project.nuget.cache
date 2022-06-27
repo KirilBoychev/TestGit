@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "abcgY5RRG1HBGPz81SeHctm6tA2fCcX3X5yEHDEDRvuMPbM9wz5KwDo+D3Q5OtXZT+5G0Fltu+QSPpQ/okxzxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\StackANdQueue\\T02.StackSum\\T02.StackSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUKSrga1DHW5IQ4uof1ZyQOfAD7ywET7CQz3zl4pA4Z92u9PgoVk6KMzWl0OmnurtrJ1r4O4uKkYP2+rRbZ3pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamAdvanced3\\T02.PawnWars\\T02.PawnWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

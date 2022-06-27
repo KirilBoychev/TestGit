@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7fE5AmEhOQKmpBNerxNe6HJ2MVrS3zKoSLq5dG16i+KY+fUT166DFmXY3Kz3NJkiRwxOWwsrRxMVjgiCq4bjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\StackANdQueue\\T04.MatchingBrackets\\T04.MatchingBrackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

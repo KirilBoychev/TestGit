@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwGBBsPODg7mQizga4zS4W2Fg5E4t5USpddJG0IWWt0OpBoxD1JO/iWCl4ad6Je3quEvRJu6zJAEWOvAInN4DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\StackQueueExercise\\T02.BasicQueueOperations\\T02.BasicQueueOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

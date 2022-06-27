@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\T01.TheFightforGondor.exe
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\T01.TheFightforGondor.deps.json
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\T01.TheFightforGondor.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\T01.TheFightforGondor.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\T01.TheFightforGondor.dll
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\ref\T01.TheFightforGondor.dll
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\bin\Debug\net5.0\T01.TheFightforGondor.pdb
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.dll
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\ref\T01.TheFightforGondor.dll
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.pdb
+C:\Users\KIRIL\source\Advanced C#\AdvancedExam7\T01.TheFightforGondor\obj\Debug\net5.0\T01.TheFightforGondor.genruntimeconfig.cache

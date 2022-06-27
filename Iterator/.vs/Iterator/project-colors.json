@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "509823af-7b1f-4277-bdcd-6d832a57cc7b": {
+      "ProjectGuid": "509823af-7b1f-4277-bdcd-6d832a57cc7b",
+      "DisplayName": "T01.ListyIterator",
+      "ColorIndex": 0
+    },
+    "03cb00b6-2b06-484f-9cff-48fb2f0c5983": {
+      "ProjectGuid": "03cb00b6-2b06-484f-9cff-48fb2f0c5983",
+      "DisplayName": "T02.Collection",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

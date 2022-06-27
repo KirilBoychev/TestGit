@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwBYRgtr7K+XryLSD1gwAR+FhsNGlqP94Oc1zKiK9o3C+eHiJaU6tMpJ7sMxf5xe0aQhEnuVDN9E20AHBikSxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamAdvanced3\\T03.StockMarket\\T03.StockMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

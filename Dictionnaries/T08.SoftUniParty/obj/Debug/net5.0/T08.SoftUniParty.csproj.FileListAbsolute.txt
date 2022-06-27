@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\T08.SoftUniParty.exe
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\T08.SoftUniParty.deps.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\T08.SoftUniParty.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\T08.SoftUniParty.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\T08.SoftUniParty.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\ref\T08.SoftUniParty.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\bin\Debug\net5.0\T08.SoftUniParty.pdb
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\ref\T08.SoftUniParty.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.pdb
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T08.SoftUniParty\obj\Debug\net5.0\T08.SoftUniParty.genruntimeconfig.cache

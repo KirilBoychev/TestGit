@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\T01.WarmingWinter.exe
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\T01.WarmingWinter.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\T01.WarmingWinter.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\T01.WarmingWinter.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\T01.WarmingWinter.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\ref\T01.WarmingWinter.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\bin\Debug\net5.0\T01.WarmingWinter.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\ref\T01.WarmingWinter.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T01.WarmingWinter\obj\Debug\net5.0\T01.WarmingWinter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\T01.BakeryShop.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\T01.BakeryShop.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\T01.BakeryShop.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\T01.BakeryShop.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\T01.BakeryShop.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\ref\T01.BakeryShop.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\bin\Debug\net5.0\T01.BakeryShop.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\ref\T01.BakeryShop.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T01.BakeryShop\obj\Debug\net5.0\T01.BakeryShop.genruntimeconfig.cache

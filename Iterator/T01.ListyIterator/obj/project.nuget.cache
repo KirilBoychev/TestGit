@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHjZI/cBM3OvHdnscTrgKr9rnkXbBhHsl4xzu0yqTdycnQteLXi6jrYe++8rxECx2wf/ueJLeSV0RXlzgT6E2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\Iterator\\T01.ListyIterator\\T01.ListyIterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

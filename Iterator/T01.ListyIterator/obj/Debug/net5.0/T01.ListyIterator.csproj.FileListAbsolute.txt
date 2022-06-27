@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\T01.ListyIterator.exe
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\T01.ListyIterator.deps.json
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\T01.ListyIterator.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\T01.ListyIterator.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\T01.ListyIterator.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\ref\T01.ListyIterator.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\bin\Debug\net5.0\T01.ListyIterator.pdb
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\ref\T01.ListyIterator.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.pdb
+C:\Users\KIRIL\source\Advanced C#\Iterator\T01.ListyIterator\obj\Debug\net5.0\T01.ListyIterator.genruntimeconfig.cache

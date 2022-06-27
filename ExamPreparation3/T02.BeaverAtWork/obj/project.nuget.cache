@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVHDeWKH2DVZkvYBMgKbjRNv/7Bl0YrHP24a6P0YzD+UODUgXlYmyb8lJt9nDZptBdC64oaj9zMcYRFZ9cO7jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamPreparation3\\T02.BeaverAtWork\\T02.BeaverAtWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

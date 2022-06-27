@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\T04.VacationBooksList.exe
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\T04.VacationBooksList.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\T04.VacationBooksList.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\T04.VacationBooksList.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\T04.VacationBooksList.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\ref\T04.VacationBooksList.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\bin\Debug\net5.0\T04.VacationBooksList.pdb
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\ref\T04.VacationBooksList.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.pdb
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T04.VacationBooksList\obj\Debug\net5.0\T04.VacationBooksList.genruntimeconfig.cache

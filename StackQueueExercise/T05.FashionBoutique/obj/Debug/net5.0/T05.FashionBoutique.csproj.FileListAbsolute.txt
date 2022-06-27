@@ -1,0 +1,15 @@
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\T05.FashionBoutique.exe
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\T05.FashionBoutique.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\T05.FashionBoutique.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\T05.FashionBoutique.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\T05.FashionBoutique.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\ref\T05.FashionBoutique.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\bin\Debug\net5.0\T05.FashionBoutique.pdb
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\ref\T05.FashionBoutique.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.pdb
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T05.FashionBoutique\obj\Debug\net5.0\T05.FashionBoutique.genruntimeconfig.cache

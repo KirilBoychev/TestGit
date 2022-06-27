@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\T01.Blacksmith.exe
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\T01.Blacksmith.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\T01.Blacksmith.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\T01.Blacksmith.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\T01.Blacksmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\ref\T01.Blacksmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\bin\Debug\net5.0\T01.Blacksmith.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\ref\T01.Blacksmith.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation2\T01.Blacksmith\obj\Debug\net5.0\T01.Blacksmith.genruntimeconfig.cache

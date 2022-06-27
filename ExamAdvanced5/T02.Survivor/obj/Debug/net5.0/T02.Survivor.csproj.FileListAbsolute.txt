@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\T02.Survivor.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\T02.Survivor.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\T02.Survivor.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\T02.Survivor.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\T02.Survivor.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\ref\T02.Survivor.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\bin\Debug\net5.0\T02.Survivor.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\ref\T02.Survivor.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T02.Survivor\obj\Debug\net5.0\T02.Survivor.genruntimeconfig.cache

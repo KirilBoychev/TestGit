@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\T02.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\T02.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\T02.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\T02.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\T02.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\ref\T02.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\bin\Debug\net5.0\T02.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\ref\T02.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02\obj\Debug\net5.0\T02.genruntimeconfig.cache

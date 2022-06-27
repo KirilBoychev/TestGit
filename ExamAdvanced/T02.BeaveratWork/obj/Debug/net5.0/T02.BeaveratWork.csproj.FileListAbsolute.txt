@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\T02.BeaveratWork.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\T02.BeaveratWork.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\T02.BeaveratWork.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\T02.BeaveratWork.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\T02.BeaveratWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\ref\T02.BeaveratWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\bin\Debug\net5.0\T02.BeaveratWork.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\ref\T02.BeaveratWork.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced\T02.BeaveratWork\obj\Debug\net5.0\T02.BeaveratWork.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\T02.SuperMario.exe
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\T02.SuperMario.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\T02.SuperMario.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\T02.SuperMario.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\T02.SuperMario.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\ref\T02.SuperMario.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\bin\Debug\net5.0\T02.SuperMario.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\ref\T02.SuperMario.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation6\T02.SuperMario\obj\Debug\net5.0\T02.SuperMario.genruntimeconfig.cache

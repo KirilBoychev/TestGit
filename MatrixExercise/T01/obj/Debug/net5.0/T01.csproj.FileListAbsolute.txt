@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\T01.exe
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\T01.deps.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\T01.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\T01.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\T01.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\ref\T01.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\bin\Debug\net5.0\T01.pdb
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\ref\T01.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.pdb
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T01\obj\Debug\net5.0\T01.genruntimeconfig.cache

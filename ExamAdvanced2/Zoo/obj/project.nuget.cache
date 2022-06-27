@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fortyY3+FHX91KNk45dTS9gaw4tOqEYHZsGRATvrtowG+qrw9O0iI72XpWM8HhwYaQceiX6pr4DZIuZ028tOVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamAdvanced2\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\T09.SimpleTextEditor.exe
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\T09.SimpleTextEditor.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\T09.SimpleTextEditor.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\T09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\T09.SimpleTextEditor.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\ref\T09.SimpleTextEditor.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\bin\Debug\net5.0\T09.SimpleTextEditor.pdb
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\ref\T09.SimpleTextEditor.dll
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.pdb
+C:\Users\KIRIL\source\Advanced C#\StackQueueExercise\T09.SimpleTextEditor\obj\Debug\net5.0\T09.SimpleTextEditor.genruntimeconfig.cache

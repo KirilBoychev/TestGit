@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "951abead-bf07-4fa8-82d4-f39ee6df6f28": {
+      "ProjectGuid": "951abead-bf07-4fa8-82d4-f39ee6df6f28",
+      "DisplayName": "T01.FoodFinder",
+      "ColorIndex": 0
+    },
+    "fc8f6814-bd85-4c49-a0de-f633daf77483": {
+      "ProjectGuid": "fc8f6814-bd85-4c49-a0de-f633daf77483",
+      "DisplayName": "T02.PawnWars",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JoNGfnWKI72QvUev+CEF7fMu/OFNeMh++pvZrlP8cTKdljF9htPv4gScBI5z9gG7HHxZIaYqAxz9W9GaJ4qtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\PracticalExam\\T02.WallDestroyer\\T02.WallDestroyer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

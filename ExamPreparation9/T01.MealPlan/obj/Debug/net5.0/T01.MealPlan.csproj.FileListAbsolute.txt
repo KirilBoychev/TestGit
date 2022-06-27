@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\T01.MealPlan.exe
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\T01.MealPlan.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\T01.MealPlan.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\T01.MealPlan.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\T01.MealPlan.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\ref\T01.MealPlan.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\bin\Debug\net5.0\T01.MealPlan.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\ref\T01.MealPlan.dll
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamPreparation9\T01.MealPlan\obj\Debug\net5.0\T01.MealPlan.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+mi+DzboPL1a0ORiwuOUUJacHbR0ZaPpyAYHsVKLwB8ZnSFx60SFrp1iMWQENig5xe6tUuWt6MBVRD6Y47x+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamPreparation2\\T02.TruffleHunter\\T02.TruffleHunter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

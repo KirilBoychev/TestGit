@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\T01.Masterchef.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\T01.Masterchef.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\T01.Masterchef.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\T01.Masterchef.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\T01.Masterchef.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\ref\T01.Masterchef.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\bin\Debug\net5.0\T01.Masterchef.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\ref\T01.Masterchef.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced5\T01.Masterchef\obj\Debug\net5.0\T01.Masterchef.genruntimeconfig.cache

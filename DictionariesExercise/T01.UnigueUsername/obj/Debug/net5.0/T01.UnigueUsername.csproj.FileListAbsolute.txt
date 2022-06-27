@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\T01.UnigueUsername.exe
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\T01.UnigueUsername.deps.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\T01.UnigueUsername.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\T01.UnigueUsername.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\T01.UnigueUsername.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\ref\T01.UnigueUsername.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\bin\Debug\net5.0\T01.UnigueUsername.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\ref\T01.UnigueUsername.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T01.UnigueUsername\obj\Debug\net5.0\T01.UnigueUsername.genruntimeconfig.cache

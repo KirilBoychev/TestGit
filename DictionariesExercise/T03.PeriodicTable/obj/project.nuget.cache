@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0LcVCJgdvw8fKZJzMxK/h54lIzlZybTpLc2HmGME7k1xDn7E3BXXpTj/VTW0EnPuMZRBwZY10Byz2RK+yPzGCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\DictionariesExercise\\T03.PeriodicTable\\T03.PeriodicTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

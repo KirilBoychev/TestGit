@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\T01.CountSameValuesinArray.exe
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\T01.CountSameValuesinArray.deps.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\T01.CountSameValuesinArray.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\T01.CountSameValuesinArray.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\T01.CountSameValuesinArray.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\ref\T01.CountSameValuesinArray.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\bin\Debug\net5.0\T01.CountSameValuesinArray.pdb
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\ref\T01.CountSameValuesinArray.dll
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.pdb
+C:\Users\KIRIL\source\Advanced C#\Dictionnaries\T01.CountSameValuesinArray\obj\Debug\net5.0\T01.CountSameValuesinArray.genruntimeconfig.cache

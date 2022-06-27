@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2dd902ee-f132-41c2-b4ae-f483ad6e2344": {
+      "ProjectGuid": "2dd902ee-f132-41c2-b4ae-f483ad6e2344",
+      "DisplayName": "T01",
+      "ColorIndex": 0
+    },
+    "d3d34fc4-682f-4309-bc69-f2db12cd60b6": {
+      "ProjectGuid": "d3d34fc4-682f-4309-bc69-f2db12cd60b6",
+      "DisplayName": "T02.SquaresInMatrix",
+      "ColorIndex": 1
+    },
+    "577effad-0890-49ff-861f-d3e4795742ba": {
+      "ProjectGuid": "577effad-0890-49ff-861f-d3e4795742ba",
+      "DisplayName": "T03.MaximalSum",
+      "ColorIndex": 2
+    },
+    "8cff639a-ac25-4d0a-a733-3d275b4f5dff": {
+      "ProjectGuid": "8cff639a-ac25-4d0a-a733-3d275b4f5dff",
+      "DisplayName": "T04.MatrixShuffling",
+      "ColorIndex": 3
+    },
+    "441ce5c9-18a8-4a24-98f6-fc6e369c5b67": {
+      "ProjectGuid": "441ce5c9-18a8-4a24-98f6-fc6e369c5b67",
+      "DisplayName": "T05.SnakeMoves",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

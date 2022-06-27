@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d211f560-01f9-4f2c-82a5-f145f85fcb95": {
+      "ProjectGuid": "d211f560-01f9-4f2c-82a5-f145f85fcb95",
+      "DisplayName": "T01.",
+      "ColorIndex": 0
+    },
+    "50ddf4c4-1770-489b-b79d-ac851572bab6": {
+      "ProjectGuid": "50ddf4c4-1770-489b-b79d-ac851572bab6",
+      "DisplayName": "T02.BeaveratWork",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

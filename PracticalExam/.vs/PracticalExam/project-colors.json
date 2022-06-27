@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40104dd7-ec8e-45ce-ba3c-608145f09ef6": {
+      "ProjectGuid": "40104dd7-ec8e-45ce-ba3c-608145f09ef6",
+      "DisplayName": "T01",
+      "ColorIndex": 0
+    },
+    "4aeaa5e0-e534-4fbd-8d8a-3b581316823f": {
+      "ProjectGuid": "4aeaa5e0-e534-4fbd-8d8a-3b581316823f",
+      "DisplayName": "T02.WallDestroyer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

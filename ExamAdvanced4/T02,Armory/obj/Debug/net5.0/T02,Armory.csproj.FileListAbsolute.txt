@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\T02,Armory.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\T02,Armory.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\T02,Armory.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\T02,Armory.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\T02,Armory.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\ref\T02,Armory.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\bin\Debug\net5.0\T02,Armory.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\ref\T02,Armory.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced4\T02,Armory\obj\Debug\net5.0\T02,Armory.genruntimeconfig.cache

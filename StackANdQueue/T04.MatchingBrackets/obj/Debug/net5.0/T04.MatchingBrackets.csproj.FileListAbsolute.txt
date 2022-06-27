@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\T04.MatchingBrackets.exe
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\T04.MatchingBrackets.deps.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\T04.MatchingBrackets.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\T04.MatchingBrackets.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\T04.MatchingBrackets.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\ref\T04.MatchingBrackets.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\bin\Debug\net5.0\T04.MatchingBrackets.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\ref\T04.MatchingBrackets.dll
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.pdb
+C:\Users\KIRIL\source\Advanced C#\StackANdQueue\T04.MatchingBrackets\obj\Debug\net5.0\T04.MatchingBrackets.genruntimeconfig.cache

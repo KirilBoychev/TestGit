@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWA57ter/kp5/gBT9W0s6Z1COQXYni+CXlTCvgGUexhxtT8RAlF+OHC9HLoaRXRXxr7S10Zz0GW0VW/GcRVHLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\DictionariesExercise\\T02.SetOfElements\\T02.SetOfElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

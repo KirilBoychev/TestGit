@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\T04.MatrixShuffling.exe
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\T04.MatrixShuffling.deps.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\T04.MatrixShuffling.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\T04.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\T04.MatrixShuffling.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\ref\T04.MatrixShuffling.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\bin\Debug\net5.0\T04.MatrixShuffling.pdb
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\ref\T04.MatrixShuffling.dll
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.pdb
+C:\Users\KIRIL\source\Advanced C#\MatrixExercise\T04.MatrixShuffling\obj\Debug\net5.0\T04.MatrixShuffling.genruntimeconfig.cache

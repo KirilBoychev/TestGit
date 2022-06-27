@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0j5VXgJ1B4P4ccVCViXPe5+usxv3OwA11b/obYJHEGF1VYw1gA7DfmzxjS+YEnv3BKDXaPuNWvEBBue9gq5cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIRIL\\source\\Advanced C#\\ExamAdvanced4\\T01.BlackSmith\\T01.BlackSmith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIRIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

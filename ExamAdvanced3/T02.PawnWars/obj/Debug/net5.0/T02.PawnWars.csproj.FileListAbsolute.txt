@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\T02.PawnWars.exe
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\T02.PawnWars.deps.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\T02.PawnWars.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\T02.PawnWars.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\T02.PawnWars.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\ref\T02.PawnWars.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\bin\Debug\net5.0\T02.PawnWars.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\ref\T02.PawnWars.dll
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.pdb
+C:\Users\KIRIL\source\Advanced C#\ExamAdvanced3\T02.PawnWars\obj\Debug\net5.0\T02.PawnWars.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\T02.Collection.exe
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\T02.Collection.deps.json
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\T02.Collection.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\T02.Collection.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\T02.Collection.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\ref\T02.Collection.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\bin\Debug\net5.0\T02.Collection.pdb
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\ref\T02.Collection.dll
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.pdb
+C:\Users\KIRIL\source\Advanced C#\Iterator\T02.Collection\obj\Debug\net5.0\T02.Collection.genruntimeconfig.cache

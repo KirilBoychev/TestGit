@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "T01.UnigueUsername/1.0.0": {
+        "runtime": {
+          "T01.UnigueUsername.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T01.UnigueUsername/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

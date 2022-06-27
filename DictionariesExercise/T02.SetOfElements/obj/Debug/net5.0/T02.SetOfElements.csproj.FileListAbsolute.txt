@@ -1,0 +1,16 @@
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\T02.SetOfElements.exe
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\T02.SetOfElements.deps.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\T02.SetOfElements.runtimeconfig.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\T02.SetOfElements.runtimeconfig.dev.json
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\T02.SetOfElements.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\ref\T02.SetOfElements.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\bin\Debug\net5.0\T02.SetOfElements.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.csproj.AssemblyReference.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.AssemblyInfoInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.AssemblyInfo.cs
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\ref\T02.SetOfElements.dll
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.pdb
+C:\Users\KIRIL\source\Advanced C#\DictionariesExercise\T02.SetOfElements\obj\Debug\net5.0\T02.SetOfElements.genruntimeconfig.cache
